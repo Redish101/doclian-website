@@ -9,8 +9,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        'primary': '#2563eb', // 主蓝色
+        'secondary': '#059669' // 辅助绿色
       },
     },
   },

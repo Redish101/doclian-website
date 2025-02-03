@@ -1,5 +1,3 @@
-import Head from 'next/head'
-
 export default function PainClinic() {
   return (
     <div className="min-h-screen bg-white">
